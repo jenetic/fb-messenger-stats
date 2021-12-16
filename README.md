@@ -1,5 +1,5 @@
 # Facebook Messenger Stats
-This is a Python command line program that displays statistics from Messenger chats, such as the number of words, messages, pictures, videos each person sent, as well as each person's average number of words per message using JSON chat files.
+This is a Python command-line program that displays statistics from Messenger chats, such as the number of words, messages, pictures, videos each person sent, as well as each person's average number of words per message using JSON chat files.
 
 ## How to Use
 1. Download fb_msg_stats.py and run the program from the command-line (e.g. typing 'python3 fb_msg_stats.py' in the terminal)
