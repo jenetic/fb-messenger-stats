@@ -12,4 +12,4 @@ This is a Python command line program that displays statistics from Messenger ch
 3. Change the format to "JSON".
 4. Deselect all information except "Messages".
 5. Click "Request a download".
-6. In the downloaded folder, each chat should have a directory which contain one or multiple JSON files. 
+6. In the downloaded folder, each chat should have a directory that contains one or multiple JSON files. 
